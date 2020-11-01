@@ -26,8 +26,8 @@ const Home = () => {
 
                 </div>
                 <div className = "col-md-6" style = {{paddingRight: '100px'}}>
-                    <p  style = {{color: 'white'}}>I count myself as a hardworking person. To pursue a challenging career in a competitive world where enthusiasm, honesty, hard work and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.</p>
-                    <a href = "https://drive.google.com/file/d/1QPDvkLgxAE80i8a43oULc922McaWrn_e/view" class="btn btn-dark">Resume</a>
+                    <p  style = {{color: 'white'}}>A self-taught software developer with a Bachelors's in Electrical and Electronic Engineering.</p>
+                    <a href = "https://drive.google.com/file/d/1DUvay2iQ9CdvHdd5_QZRFiX7I388UXd1/view?usp=sharing" class="btn btn-dark">Resume</a>
 
                 </div>
 

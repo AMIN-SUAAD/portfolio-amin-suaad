@@ -36,7 +36,7 @@ const Projects = () => {
   <div class="card-body">
     <h5 class="card-title">German Grade Calculator</h5>
     <p class = 'card-text'><span style = {{fontWeight: 'bold'}}>Technology:</span>  React JS, React-Router, Bootstrap</p>
-    <p class="card-text"><span style = {{fontWeight: 'bold'}}>Overview:</span> A website for taking online courses. Only the client side has been built.</p>
+    <p class="card-text"><span style = {{fontWeight: 'bold'}}>Overview:</span> A website for converting grades from Bangladeshi grading system to German grading system.</p>
     <a href="https://fervent-easley-d894bc.netlify.app/" class="btn btn-info">Live Site</a>
     <a style = {{marginTop: '5px'}} href="https://github.com/AMIN-SUAAD/german-grade-calculator" class="btn btn-info">Client Side Repository</a>
   </div>
